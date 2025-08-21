@@ -1,0 +1,45 @@
+# How to Contribute to DTE-I
+
+We welcome contributions to the DTE-I framework, especially regarding ethical cybersecurity and AI governance documentation and templates.
+
+## Scope of Contributions
+
+Contributions should focus on enhancing, clarifying, or expanding the DTE-I framework, its standards, templates, and checklists. This includes:
+- Proposing improvements to existing documents.
+- Suggesting new templates or checklists.
+- Identifying errors or inconsistencies.
+- Enhancing alignment with relevant standards and regulations.
+
+## How to Contribute
+
+1.  **Fork the Repository:** Create your own copy of the `DTE-I` repository on GitHub.
+2.  **Clone Your Fork:** Download your copy to your local machine.
+3.  **Create a New Branch:** For each set of changes, create a new branch (e.g., `feature/add-new-template`, `fix/typo-in-checklist`).
+4.  **Make Your Changes:** Edit files or add new ones.
+5.  **Commit Your Changes:** Use clear and concise [conventional commit messages](#commit-messages).
+6.  **Push to Your Fork:** Upload your changes to your GitHub fork.
+7.  **Open a Pull Request (PR):** Go to the original `DTE-I` repository on GitHub and open a Pull Request from your branch to the `main` branch.
+
+## Using Issues and Discussions
+
+-   **Issues:** Use GitHub Issues to report bugs, propose small changes, or ask specific questions that require a clear resolution.
+-   **Discussions:** For broader ideas, new feature proposals, or general questions that might lead to open-ended conversations, please start a GitHub Discussion. This helps align scope before significant work.
+
+## Style Guidelines
+
+-   **Clarity and Neutrality:** Write in a clear, concise, and neutral tone.
+-   **Evidence-Based:** Where applicable, cite standards, regulations, or established principles.
+-   **Bilingual:** If possible and relevant, provide content in both Arabic and English, especially for posts.
+
+## Commit Messages
+
+Please use [conventional commit messages](https://www.conventionalcommits.org/en/v1.0.0/) to keep the commit history clean and understandable. Examples:
+-   `feat(standard): expand “shall” requirements to 40 items`
+-   `docs(templates): refine incident comms playbook`
+-   `fix(checklist): clarify EU AI Act high-risk definition`
+
+## Review Process
+
+-   All Pull Requests will be reviewed.
+-   At least one reviewer approval is typically required before merging to the `main` branch.
+-   Be prepared to discuss your changes and make revisions based on feedback.
