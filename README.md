@@ -5,7 +5,7 @@
 
 # DTE‑I -- Digital Trust Ethics, Islamic‑Inspired
 
-Practical framework for ethical cybersecurity and AI, interoperable with ISO/IEC 27001, ISO/IEC 27701, ISO/IEC 42001, NIST CSF 2.0, NIST AI RMF, EU AI Act, and GDPR.
+Practical framework for ethical cybersecurity and AI, interoperable with ISO/IEC 27001, ISO/IEC 27701, ISO/IEC 42001, NIST CSF 2.0, NIST AI RMF, EU AI Act, PDPL and GDPR.
 
 ## Overview
 
