@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElNaboulsi/DTE-I-Framework/main/main/assets_dtei-logo1.png" 
+  <img src="https://github.com/ElNaboulsi/DTE-I-Framework/blob/main/assets_dtei-logo1.png" 
        alt="DTE-I Framework Logo" width="200"/>
 </p>
 
