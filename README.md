@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ElNaboulsi/DTE-I-Framework/main/main/assets_dtei-logo1.png" 
+       alt="DTE-I Framework Logo" width="200"/>
+</p>
+
 # DTE‑I -- Digital Trust Ethics, Islamic‑Inspired
 
 Practical framework for ethical cybersecurity and AI, interoperable with ISO/IEC 27001, ISO/IEC 27701, ISO/IEC 42001, NIST CSF 2.0, NIST AI RMF, EU AI Act, and GDPR.
